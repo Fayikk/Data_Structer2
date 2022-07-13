@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stack\Stacks.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_applications", "Stack_applications\Stack_applications.csproj", "{928FFBA5-301D-4028-90BB-E1FC41BB4B89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queue\Queues.csproj", "{E0A615A9-EBC0-45DD-9350-A2A6046C52C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_Application", "Queue_Application\Queue_Application.csproj", "{899D709E-F5EB-49A5-9421-DCE222295539}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{928FFBA5-301D-4028-90BB-E1FC41BB4B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{928FFBA5-301D-4028-90BB-E1FC41BB4B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{928FFBA5-301D-4028-90BB-E1FC41BB4B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A615A9-EBC0-45DD-9350-A2A6046C52C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A615A9-EBC0-45DD-9350-A2A6046C52C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A615A9-EBC0-45DD-9350-A2A6046C52C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A615A9-EBC0-45DD-9350-A2A6046C52C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899D709E-F5EB-49A5-9421-DCE222295539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899D709E-F5EB-49A5-9421-DCE222295539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899D709E-F5EB-49A5-9421-DCE222295539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899D709E-F5EB-49A5-9421-DCE222295539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
